@@ -1,4 +1,4 @@
-# numPy.random
+# Numpy.random
 
 The repository contains an investigation into the __numpy.random__ package.
 
@@ -13,7 +13,7 @@ The repository contains an investigation into the __numpy.random__ package.
 ## Table of Contents
 * [Set up](#set_up)
 * [How to run the code](#how_to_run_the_code)
-* [NumPy.random](#general)
+* [Numpy.random](#general)
 	* [Purpose of the package](#purpose)
 	* [“Simple random data” and “Permutations” functions](#functions)
 	* [“Distributions” functions](#distributions)
@@ -42,7 +42,7 @@ Distribution of the Python used is [Anaconda Python distribution](https://www.an
 ----
 
 
-### NumPy.random <a name="general"></a>
+### Numpy.random <a name="general"></a>
 
   * ***Purpose of the package*** <a name="purpose"></a>
 
