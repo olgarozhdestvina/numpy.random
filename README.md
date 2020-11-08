@@ -1,6 +1,13 @@
 # Numpy.random
 
-The repository contains an investigation into the __numpy.random__ package.
+<img align="left" width="200" height="200" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/1024px-NumPy_logo_2020.svg.png">
+
+The repository contains an investigation into the __numpy.random__ package. It explains:
+  - the package purpose
+  - the use of “Simple random data” and “Permutations” functions
+  - the use and purpose of 8 “Distributions” functions
+  - the use of seeds in generating pseudorandom numbers.
+
 
 *Submitted by:* Olga Rozhdestvina (Student No: G00387844) 
 
@@ -8,30 +15,17 @@ The repository contains an investigation into the __numpy.random__ package.
 
 *Programming Language used:* [Python](https://www.python.org/)
 
-----
+---
 
-## Table of Contents
-* [Set up](#set_up)
-* [How to run the code](#how_to_run_the_code)
-* [Numpy.random](#general)
-	* [Purpose of the package](#purpose)
-	* [“Simple random data” and “Permutations” functions](#functions)
-	* [“Distributions” functions](#distributions)
-	* [Seeds](#seeds)
-* [License](#licence)
-* [Acknowledgment](#acknowledgment)
-
-----
-
-### Set up <a name="set_up"></a>
+### Set up
 
 Applications used for completion of the tasks are [The Jupyter Notebook](https://jupyter.org/) and [cmder](http://cmder.net/)
 
 Distribution of the Python used is [Anaconda Python distribution](https://www.anaconda.com/). 
 
-----
 
-###  How to run the code <a name="how_to_run_the_code"></a>
+
+###  How to run the code
 
 1. Make sure that you have Python installed
 2. Download or clone current repository "numpy.random"
@@ -39,27 +33,14 @@ Distribution of the Python used is [Anaconda Python distribution](https://www.an
 4. Run Jupyter notebook
 5. On the home page of opened Jupyter server select Numpy.random.ipynb
 
-----
 
+---
 
-### Numpy.random <a name="general"></a>
-
-  * ***Purpose of the package*** <a name="purpose"></a>
-
-  * ***“Simple random data” and “Permutations” functions*** <a name="functions"></a>
-
-  * ***“Distributions” functions*** <a name="distributions"></a>
-
-  * ***Seeds*** <a name="seeds"></a>
-
-
-----
-
-#### License <a name="licence"></a>
+#### License
 
 This project is licensed under the MIT License - see the LICENSE.md file for details
 
-#### Acknowledgment <a name="acknowledgment"></a>
+#### Acknowledgment
 
   * Lecturers of GMIT [Bian McGinley]() and [Ian McLoughlin](https://github.com/ianmcloughlin)
   * [numpy.random](https://numpy.org/doc/stable/reference/random/)
